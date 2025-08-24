@@ -1,7 +1,8 @@
+
 {
-    "url": "t.me",
-    "name": "SlotPot - TON Jackpot Game", 
-    "iconUrl": "https://i.ibb.co/JRqWyf7c/Logo-YUME-Gradient.png",
-    "termsOfUseUrl": "https://slotpot-betting.vercel.app/terms",
-    "privacyPolicyUrl": "https://slotpot-betting.vercel.app/privacy"
-} 
+  "url": "https://slotpot-betting.vercel.app",
+  "name": "SlotPot - TON Jackpot Game",
+  "iconUrl": "https://raw.githubusercontent.com/yourusername/slotpot-tonconnect/main/icon-512x512.png",
+  "termsOfUseUrl": "https://slotpot-betting.vercel.app/terms",
+  "privacyPolicyUrl": "https://slotpot-betting.vercel.app/privacy"
+}
